@@ -24,7 +24,7 @@ const MobileNav = ({ removeNavbarHandler, mobileNavOpen }) => {
 							_hover={{ transform: "scale(1.1)" }}
 							transition=".3s ease-out"
 							alt="Logo"
-							src="/brand_logo.png"
+							src="https://res.cloudinary.com/djksghat4/image/upload/v1606868551/chakra/brand_logo.png"
 						/>
 					</Link>
 					<Box
